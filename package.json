@@ -2,9 +2,11 @@
   "name": "kickstarter",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://adithyabhat17.github.io/starterhunt",
   "dependencies": {
     "axios": "^0.18.0",
     "circular-std": "^1.0.0",
+    "gh-pages": "^2.0.1",
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
     "react-epic-spinners": "^0.2.1",
@@ -13,6 +15,8 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "predeploy": "gh-pages -d build",
+    "deploy": "npm run deploy",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
