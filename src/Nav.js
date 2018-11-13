@@ -6,7 +6,7 @@ export default function Nav(props) {
         <nav className="navbar navbar-default">
             <div className="container">
                 <div className="navbar-header">
-                    <a className="navbar-brand" href="#S">StarterHub</a>
+                    <a className="navbar-brand" href="#S">StarterHunt</a>
                 </div>
                 <form className="navbar-form navbar-left">
                     <div className="form-group">
