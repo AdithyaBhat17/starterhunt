@@ -15,7 +15,7 @@ class App extends Component {
   }
 
   fetchData(){
-    axios.get('http://starlord.hackerearth.com/kickstarter')
+    axios.get('https://raw.githubusercontent.com/AdithyaBhat17/starterhunt/master/_data.json')
     .then((data) => {
       data.data.sort(((a,b) => b['end.time'].localeCompare(a['end.time'])))
       this.setState({
