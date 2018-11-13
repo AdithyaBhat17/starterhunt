@@ -1,7 +1,7 @@
 {
   "main.css": "/starterhunt/static/css/main.c1496f05.chunk.css",
-  "main.js": "/starterhunt/static/js/main.35d81bf9.chunk.js",
-  "main.js.map": "/starterhunt/static/js/main.35d81bf9.chunk.js.map",
+  "main.js": "/starterhunt/static/js/main.f6c382ce.chunk.js",
+  "main.js.map": "/starterhunt/static/js/main.f6c382ce.chunk.js.map",
   "static/css/1.e181f1a8.chunk.css": "/starterhunt/static/css/1.e181f1a8.chunk.css",
   "static/js/1.8e11df23.chunk.js": "/starterhunt/static/js/1.8e11df23.chunk.js",
   "static/js/1.8e11df23.chunk.js.map": "/starterhunt/static/js/1.8e11df23.chunk.js.map",
@@ -11,6 +11,6 @@
   "static/css/main.c1496f05.chunk.css.map": "/starterhunt/static/css/main.c1496f05.chunk.css.map",
   "static/css/1.e181f1a8.chunk.css.map": "/starterhunt/static/css/1.e181f1a8.chunk.css.map",
   "index.html": "/starterhunt/index.html",
-  "precache-manifest.989853bb905c829ca3eda2e5fa4cbc6d.js": "/starterhunt/precache-manifest.989853bb905c829ca3eda2e5fa4cbc6d.js",
+  "precache-manifest.e06f1e16cb73e214064778cde616e7e3.js": "/starterhunt/precache-manifest.e06f1e16cb73e214064778cde616e7e3.js",
   "service-worker.js": "/starterhunt/service-worker.js"
 }
