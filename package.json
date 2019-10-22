@@ -8,7 +8,7 @@
     "circular-std": "^1.0.0",
     "gh-pages": "^2.0.1",
     "react": "^16.6.3",
-    "react-dom": "^16.6.3",
+    "react-dom": "^16.11.0",
     "react-epic-spinners": "^0.2.1",
     "react-scripts": "2.1.1"
   },
