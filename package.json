@@ -6,7 +6,7 @@
   "dependencies": {
     "axios": "^0.19.0",
     "circular-std": "^1.0.0",
-    "gh-pages": "^2.0.1",
+    "gh-pages": "^2.1.1",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
     "react-epic-spinners": "^0.2.1",
